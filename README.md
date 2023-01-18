@@ -11,6 +11,6 @@
  
  I’m currently working on ***Uploading local projects to git***
 #
-- Check out my Project Blog: [Not available yet](https://.github.com/protomosh)
+- Check out my Project Blog: [Not available yet](https://github.com/protomosh)
 <br/>
 <img src="wordcloud_2.svg" align="right">
