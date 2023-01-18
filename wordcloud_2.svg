@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="480" height="640" viewBox="0 0 480 640" xml:space="preserve">
+<desc>Created @ WordClouds.com</desc>
+<defs><style type="text/css"> @import url(https://fonts.googleapis.com/css2?family=Raleway&amp;family=Oxanium&amp;family=Alatsi&amp;family=Angkor&amp;display=swap) </style></defs>
+<rect x="0" y="0" width="100%" height="100%" fill="rgba(0, 0, 0, 0)"></rect>
+<g transform="matrix(0.65 -0.76 0.76 0.65 290 346)" style=""  >
+		<text xml:space="preserve" font-family="Angkor" font-size="59.63465237111334" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(146,29,96); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-170.69" y="18.73" >Prototype</tspan></text>
+</g>
+<g transform="matrix(0.34 0.94 -0.94 0.34 130 430)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="59.63465237111334" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,24,80); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-134.12" y="18.73" >Electronics</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 195 260)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="59.63465237111334" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(109,39,128); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-120.04" y="18.73" >Robotics</tspan></text>
+</g>
+<g transform="matrix(0.47 -0.88 0.88 0.47 300 441)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="59.63465237111334" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(219,10,32); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-106.75" y="18.73" >Arduino</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 275 126)" style=""  >
+		<text xml:space="preserve" font-family="Alatsi" font-size="59.63465237111334" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,19,64); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-90.35" y="18.73" >Coding</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 185 320)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="29.81732618555667" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,34,112); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-48.6" y="9.37" >Python</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 120 220)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="29.81732618555667" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(91,44,144); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-43.09" y="9.37" >Stm32</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 85 150)" style=""  >
+		<text xml:space="preserve" font-family="Angkor" font-size="17.890395711334" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(36,58,192); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-51.86" y="5.62" >Tinkering</tspan></text>
+</g>
+<g transform="matrix(0.78 -0.63 0.63 0.78 350 500)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="59.63465237111334" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,15,48); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-64.6" y="18.73" >CNC</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 380 415)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="17.890395711334" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(55,53,176); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-28.33" y="-6.11" >3D</tspan><tspan x="-28.33" y="17.35" >printing</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 415 131)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="59.63465237111334" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(237,5,16); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-37.24" y="18.73" >3D</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 105 120)" style=""  >
+		<text xml:space="preserve" font-family="Alatsi" font-size="47.707721896890675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(73,49,160); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-39.86" y="14.99" >C++</tspan></text>
+</g>
+<g transform="matrix(0.98 -0.21 0.21 0.98 185 391)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="23.853860948445337" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(18,63,208); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.65" y="7.49" >CAD</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 335 220)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="23.853860948445337" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,68,224); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.41" y="7.49" >QT</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 245 205)" style=""  >
+		<text xml:space="preserve" font-family="Angkor" font-size="14.908663092778335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(219,10,32); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-42.67" y="4.68" >Prototype</tspan></text>
+</g>
+<g transform="matrix(0.59 -0.8 0.8 0.59 105 530)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="14.908663092778335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(219,10,32); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-33.53" y="4.68" >Electronics</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 265 560)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="29.81732618555667" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(219,10,32); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-60.02" y="9.37" >Robotics</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 185 350)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="29.81732618555667" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(219,10,32); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-53.37" y="9.37" >Arduino</tspan></text>
+</g>
+<g transform="matrix(0.27 0.96 -0.96 0.27 85 466)" style=""  >
+		<text xml:space="preserve" font-family="Alatsi" font-size="29.81732618555667" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(219,10,32); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-45.17" y="9.37" >Coding</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 265 80)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="29.81732618555667" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(219,10,32); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-48.6" y="9.37" >Python</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 365 336)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="14.908663092778335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(219,10,32); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.54" y="4.68" >Stm32</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 255 225)" style=""  >
+		<text xml:space="preserve" font-family="Angkor" font-size="17.890395711334" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(219,10,32); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-51.86" y="5.62" >Tinkering</tspan></text>
+</g>
+<g transform="matrix(0.04 -1 1 0.04 405 356)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="29.81732618555667" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(219,10,32); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-32.3" y="9.37" >CNC</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 215 525)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="17.890395711334" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(219,10,32); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-28.33" y="-6.11" >3D</tspan><tspan x="-28.33" y="17.35" >printing</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 195 80)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="29.81732618555667" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(219,10,32); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.62" y="9.37" >3D</tspan></text>
+</g>
+<g transform="matrix(0.59 -0.81 0.81 0.59 250 481)" style=""  >
+		<text xml:space="preserve" font-family="Alatsi" font-size="23.853860948445337" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(219,10,32); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.93" y="7.49" >C++</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 245 296)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="23.853860948445337" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(219,10,32); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.65" y="7.49" >CAD</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 255 330)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="23.853860948445337" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(219,10,32); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.41" y="7.49" >QT</tspan></text>
+</g>
+<g transform="matrix(0.79 -0.61 0.61 0.79 370 541)" style=""  >
+		<text xml:space="preserve" font-family="Angkor" font-size="14.908663092778335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,15,48); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-42.67" y="4.68" >Prototype</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 165 296)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="14.908663092778335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,15,48); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-33.53" y="4.68" >Electronics</tspan></text>
+</g>
+<g transform="matrix(0.93 0.36 -0.36 0.93 190 150)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,15,48); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.01" y="2.34" >Robotics</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 170 416)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="14.908663092778335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,15,48); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-26.69" y="4.68" >Arduino</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 395 311)" style=""  >
+		<text xml:space="preserve" font-family="Alatsi" font-size="14.908663092778335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,15,48); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.59" y="4.68" >Coding</tspan></text>
+</g>
+<g transform="matrix(0.88 -0.48 0.48 0.88 305 206)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,15,48); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.15" y="2.34" >Python</tspan></text>
+</g>
+<g transform="matrix(0.25 -0.97 0.97 0.25 155 136)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="14.908663092778335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,15,48); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.54" y="4.68" >Stm32</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 140 201)" style=""  >
+		<text xml:space="preserve" font-family="Angkor" font-size="8.945197855667" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,15,48); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.93" y="2.81" >Tinkering</tspan></text>
+</g>
+<g transform="matrix(0.52 0.85 -0.85 0.52 185 215)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="14.908663092778335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,15,48); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.15" y="4.68" >CNC</tspan></text>
+</g>
+<g transform="matrix(0.5 0.87 -0.87 0.5 140 381)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="8.945197855667" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,15,48); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.16" y="-3.05" >3D</tspan><tspan x="-14.16" y="8.67" >printing</tspan></text>
+</g>
+<g transform="matrix(0.62 -0.78 0.78 0.62 410 266)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="29.81732618555667" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,15,48); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.62" y="9.37" >3D</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 120 561)" style=""  >
+		<text xml:space="preserve" font-family="Alatsi" font-size="23.853860948445337" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,15,48); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.93" y="7.49" >C++</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 30 121)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.926930474222669" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,15,48); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.33" y="3.75" >CAD</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 415 205)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="23.853860948445337" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(200,15,48); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.41" y="7.49" >QT</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 295 156)" style=""  >
+		<text xml:space="preserve" font-family="Angkor" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,19,64); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.34" y="2.34" >Prototype</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 355 201)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="14.908663092778335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,19,64); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-33.53" y="4.68" >Electronics</tspan></text>
+</g>
+<g transform="matrix(0.97 0.26 -0.26 0.97 325 241)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,19,64); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.01" y="2.34" >Robotics</tspan></text>
+</g>
+<g transform="matrix(0.98 0.18 -0.18 0.98 50 105)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,19,64); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-13.34" y="2.34" >Arduino</tspan></text>
+</g>
+<g transform="matrix(0.86 -0.52 0.52 0.86 295 390)" style=""  >
+		<text xml:space="preserve" font-family="Alatsi" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,19,64); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.29" y="2.34" >Coding</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 135 241)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,19,64); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.15" y="2.34" >Python</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 115 290)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,19,64); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.77" y="2.34" >Stm32</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 85 201)" style=""  >
+		<text xml:space="preserve" font-family="Angkor" font-size="8.945197855667" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,19,64); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.93" y="2.81" >Tinkering</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 355 441)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="14.908663092778335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,19,64); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.15" y="4.68" >CNC</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 185 565)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="8.945197855667" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,19,64); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.16" y="-3.05" >3D</tspan><tspan x="-14.16" y="8.67" >printing</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 380 381)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.908663092778335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,19,64); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-9.31" y="4.68" >3D</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 130 541)" style=""  >
+		<text xml:space="preserve" font-family="Alatsi" font-size="11.926930474222669" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,19,64); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-9.96" y="3.75" >C++</tspan></text>
+</g>
+<g transform="matrix(0.09 -1 1 0.09 325 470)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.926930474222669" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,19,64); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.33" y="3.75" >CAD</tspan></text>
+</g>
+<g transform="matrix(0.81 0.59 -0.59 0.81 65 296)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="11.926930474222669" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(182,19,64); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-7.7" y="3.75" >QT</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 245 156)" style=""  >
+		<text xml:space="preserve" font-family="Angkor" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,24,80); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.34" y="2.34" >Prototype</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 240 101)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,24,80); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.77" y="2.34" >Electronics</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 215 370)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,24,80); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.01" y="2.34" >Robotics</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 290 290)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,24,80); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-13.34" y="2.34" >Arduino</tspan></text>
+</g>
+<g transform="matrix(0.57 0.82 -0.82 0.57 65 265)" style=""  >
+		<text xml:space="preserve" font-family="Alatsi" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,24,80); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.29" y="2.34" >Coding</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 275 431)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,24,80); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.15" y="2.34" >Python</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 250 455)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,24,80); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.77" y="2.34" >Stm32</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 190 241)" style=""  >
+		<text xml:space="preserve" font-family="Angkor" font-size="8.945197855667" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,24,80); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.93" y="2.81" >Tinkering</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 320 355)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,24,80); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-8.07" y="2.34" >CNC</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 215 490)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="8.945197855667" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,24,80); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.16" y="-3.05" >3D</tspan><tspan x="-14.16" y="8.67" >printing</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 55 121)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.908663092778335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,24,80); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-9.31" y="4.68" >3D</tspan></text>
+</g>
+<g transform="matrix(0.5 0.87 -0.87 0.5 75 381)" style=""  >
+		<text xml:space="preserve" font-family="Alatsi" font-size="11.926930474222669" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,24,80); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-9.96" y="3.75" >C++</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 395 441)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.926930474222669" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,24,80); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.33" y="3.75" >CAD</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 360 225)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="11.926930474222669" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,24,80); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-7.7" y="3.75" >QT</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 375 350)" style=""  >
+		<text xml:space="preserve" font-family="Angkor" font-size="3.7271657731945838" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(146,29,96); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.67" y="1.17" >Prototype</tspan></text>
+</g>
+<g transform="matrix(0.62 -0.79 0.79 0.62 160 96)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(146,29,96); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.77" y="2.34" >Electronics</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 175 370)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(146,29,96); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.01" y="2.34" >Robotics</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 410 295)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(146,29,96); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-13.34" y="2.34" >Arduino</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 390 551)" style=""  >
+		<text xml:space="preserve" font-family="Alatsi" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(146,29,96); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.29" y="2.34" >Coding</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 230 466)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(146,29,96); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.15" y="2.34" >Python</tspan></text>
+</g>
+<g transform="matrix(0 -1 1 0 60 236)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(146,29,96); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.77" y="2.34" >Stm32</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 385 100)" style=""  >
+		<text xml:space="preserve" font-family="Angkor" font-size="4.4725989278335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(146,29,96); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.97" y="1.41" >Tinkering</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 190 505)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(146,29,96); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-8.07" y="2.34" >CNC</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 310 370)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="4.4725989278335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(146,29,96); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-7.08" y="-1.53" >3D</tspan><tspan x="-7.08" y="4.34" >printing</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 75 406)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.908663092778335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(146,29,96); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-9.31" y="4.68" >3D</tspan></text>
+</g>
+<g transform="matrix(0.95 0.31 -0.31 0.95 280 415)" style=""  >
+		<text xml:space="preserve" font-family="Alatsi" font-size="11.926930474222669" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(146,29,96); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-9.96" y="3.75" >C++</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 245 310)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="5.963465237111334" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(146,29,96); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-6.16" y="1.87" >CAD</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 85 525)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="11.926930474222669" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(146,29,96); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-7.7" y="3.75" >QT</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 270 310)" style=""  >
+		<text xml:space="preserve" font-family="Angkor" font-size="3.7271657731945838" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,34,112); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.67" y="1.17" >Prototype</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 340 101)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,34,112); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.77" y="2.34" >Electronics</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 130 531)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="3.7271657731945838" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,34,112); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-7.5" y="1.17" >Robotics</tspan></text>
+</g>
+<g transform="matrix(0.61 0.79 -0.79 0.61 455 110)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="3.7271657731945838" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,34,112); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-6.67" y="1.17" >Arduino</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 345 461)" style=""  >
+		<text xml:space="preserve" font-family="Alatsi" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,34,112); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.29" y="2.34" >Coding</tspan></text>
+</g>
+<g transform="matrix(0.88 -0.47 0.47 0.88 85 296)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="3.7271657731945838" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,34,112); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-6.08" y="1.17" >Python</tspan></text>
+</g>
+<g transform="matrix(0.09 -1 1 0.09 130 316)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,34,112); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.77" y="2.34" >Stm32</tspan></text>
+</g>
+<g transform="matrix(1 -0.08 0.08 1 275 241)" style=""  >
+		<text xml:space="preserve" font-family="Angkor" font-size="4.4725989278335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,34,112); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.97" y="1.41" >Tinkering</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 325 255)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,34,112); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-8.07" y="2.34" >CNC</tspan></text>
+</g>
+<g transform="matrix(0.99 -0.14 0.14 0.99 60 215)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="4.4725989278335" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,34,112); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-7.08" y="-1.53" >3D</tspan><tspan x="-7.08" y="4.34" >printing</tspan></text>
+</g>
+<g transform="matrix(0.54 -0.84 0.84 0.54 420 236)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,34,112); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-4.66" y="2.34" >3D</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 370 566)" style=""  >
+		<text xml:space="preserve" font-family="Alatsi" font-size="11.926930474222669" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,34,112); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-9.96" y="3.75" >C++</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 385 470)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="5.963465237111334" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,34,112); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-6.16" y="1.87" >CAD</tspan></text>
+</g>
+<g transform="matrix(0.59 0.81 -0.81 0.59 150 436)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="5.963465237111334" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,34,112); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-3.85" y="1.87" >QT</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 120 100)" style=""  >
+		<text xml:space="preserve" font-family="Angkor" font-size="3.7271657731945838" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(109,39,128); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.67" y="1.17" >Prototype</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 350 236)" style=""  >
+		<text xml:space="preserve" font-family="Times New Roman" font-size="3.7271657731945838" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(109,39,128); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-8.38" y="1.17" >Electronics</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 220 476)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="3.7271657731945838" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(109,39,128); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-7.5" y="1.17" >Robotics</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 280 271)" style=""  >
+		<text xml:space="preserve" font-family="Oxanium" font-size="3.7271657731945838" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(109,39,128); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-6.67" y="1.17" >Arduino</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 155 571)" style=""  >
+		<text xml:space="preserve" font-family="Alatsi" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(109,39,128); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.29" y="2.34" >Coding</tspan></text>
+</g>
+<g transform="matrix(0.99 0.16 -0.16 0.99 190 516)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="3.7271657731945838" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(109,39,128); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-6.08" y="1.17" >Python</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 305 495)" style=""  >
+		<text xml:space="preserve" font-family="Helvetica" font-size="7.4543315463891675" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(109,39,128); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.77" y="2.34" >Stm32</tspan></text>
+</g>
+</svg>
